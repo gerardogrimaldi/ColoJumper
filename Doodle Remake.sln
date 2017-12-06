@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B4C657D3-A6F7-764A-8A6A-B2BE2BCABA85}") = "Doodle Remake", "Assembly-CSharp.csproj", "{A063819F-F77F-2B69-D765-17F0085A7485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A063819F-F77F-2B69-D765-17F0085A7485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A063819F-F77F-2B69-D765-17F0085A7485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A063819F-F77F-2B69-D765-17F0085A7485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A063819F-F77F-2B69-D765-17F0085A7485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
